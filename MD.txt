@@ -1,0 +1,9 @@
+Problema
+La aplicacion de este esquema plantea la estuctura de una Empresa llamada 
+Maba en el cual registra los clientes y sus ventas con tal  se pide que
+se organice de manera que separe en 3 partes donde la grafica se pueda 
+acceder de una manera facil y que se pueda utilizar para distintos 
+tipos de aplicaciones
+
+En este caso se planteo el modelo MVC
+ 
